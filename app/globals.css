@@ -105,3 +105,8 @@ a {
     color-scheme: dark;
   }
 }
+
+.card-img-top {
+    height: 25vw;
+    object-fit: cover;
+}
